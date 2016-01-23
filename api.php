@@ -6,7 +6,7 @@ session_start();
 
 
 
-//good
+
 $servername = "localhost";
 $username = "root";
 $password = "";
